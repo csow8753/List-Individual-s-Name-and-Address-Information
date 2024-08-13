@@ -1,0 +1,19 @@
+2. Java Application:
+
+public class PersonInfo {
+    public static void main(String[] args) {
+        // Define variables for the fictional person's information
+        String firstName = "Thomas";
+        String lastName = "Adams";
+        String streetAddress = "2337 Berry Street";
+        String city = "Walsenburg";
+        String zipCode = "81089";
+
+        // Print the information
+        System.out.println("First Name: " + firstName);
+        System.out.println("Last Name: " + lastName);
+        System.out.println("Street Address: " + streetAddress);
+        System.out.println("City: " + city);
+        System.out.println("Zip Code: " + zipCode);
+    }
+}
