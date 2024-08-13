@@ -1,0 +1,20 @@
+3. Instructions to Compile and Execute the Java Application:
+
+Save the Code: Save the Java Code in a file named ‘PersonInfo.Java’
+
+Compile the code: 
+
+	- Open a terminal or command prompt.
+	- Navigate  to the directory where ‘PersonInfo.java’ is saved.
+	- Compile the Java file using the following command:
+		javac PersonInfo.java
+
+	- This will generate a ‘PersonInfo.class’ file if there are no syntax errors.
+
+
+Run the Application: 
+	- Execute the compiled class file using the following command:
+	java PersonInfo
+
+	- You should see the output with the information printed on individual lines. 
+
