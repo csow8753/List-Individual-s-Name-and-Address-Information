@@ -1,0 +1,15 @@
+1. Pseudocode:
+
+START
+    SET firstName TO "Thomas"
+    SET lastName TO "Adams"
+    SET streetAddress TO "2337 Berry Street"
+    SET city TO "Walsenburg"
+    SET zipCode TO "81089"
+    
+    PRINT "First Name: " + firstName
+    PRINT "Last Name: " + lastName
+    PRINT "Street Address: " + streetAddress
+    PRINT "City: " + city
+    PRINT "Zip Code: " + zipCode
+END
