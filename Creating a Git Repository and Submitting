@@ -1,0 +1,11 @@
+4. Creating a Git Repository and Submitting:
+
+	1. Create a Git Repository:
+		- Initialize a new Git repository in your project directory:
+			git init
+
+		- Add your files to the repository:
+			git add PersonInfo.java
+
+		- Commit the files:
+			git commit -m "Initial commit with PersonInfo.java"
